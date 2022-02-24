@@ -30,16 +30,8 @@ I completed this project using Unity3D and Vuforia.
 
 # Limitation
 
-Due to the natural design of the book, its back cover is poor in detail and doesn't have a good contrast, thus leading to the poor rating 
-
-(3 out of 5) in the target manager. So it's harder to recognize the back than the front (5 out of 5). This limitation is showing in my video, where 
-
-it takes around 20 seconds to recognize and show the text on the back, but the content on the front can be shown immediately.
+Due to the natural design of the book, its back cover is poor in detail and doesn't have a good contrast, thus leading to the poor rating (3 out of 5) in the target manager. So it's harder to recognize the back than the front (5 out of 5). This limitation is showing in my video, where it takes around 20 seconds to recognize and show the text on the back, but the content on the front can be shown immediately.
 
 # Download and Running
 
-Download the whole project, open it in Unity Hub with the correct Unity3D edition (2020.3.29f1), then build and run it using any wanted 
-
-platform (suggest using PC, Mac & Linux Standalone or Android), finally using the physical book (if have) or given pictures of the front and 
-
-back cover to interact with it. 
+Download the whole project, open it in Unity Hub with the correct Unity3D edition (2020.3.29f1), then build and run it using any wanted platform (suggest using PC, Mac & Linux Standalone or Android), finally using the physical book (if have) or given pictures of the front and back cover to interact with it. 
