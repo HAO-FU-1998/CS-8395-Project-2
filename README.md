@@ -4,7 +4,7 @@ Project Two: Augmented Reality Book Cover
 
 Author: Hao Fu    hao.fu@vanderbilt.edu
 
-# Version: Unity3D: 2020.3.29f1  Vuforia Engine: 10.5.5  Low Poly Junkyard Models Pack: 1.0
+## Version: Unity3D: 2020.3.29f1  Vuforia Engine: 10.5.5  Low Poly Junkyard Models Pack: 1.0
 
 # Description
 
