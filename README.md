@@ -10,23 +10,23 @@ Author: Hao Fu    hao.fu@vanderbilt.edu
 
 I completed this project using Unity3D and Vuforia.
 
-## Create a new project in Unity3D and import the Vuforia Engine package and Low Poly Junkyard Models Pack package;
+> Create a new project in Unity3D and import the Vuforia Engine package and Low Poly Junkyard Models Pack package;
 
-## Create License and Target Database on Vuforia Developer Portal and import them into the project;
+> Create License and Target Database on Vuforia Developer Portal and import them into the project;
 
-## Create a new scene, add a ARCamera and two image target as "front" and "back";
+> Create a new scene, add a ARCamera and two image target as "front" and "back";
 
-## For "front" image target, add a Text-TextMeshPro with the title and author, add some 3D models from Low Poly Junkyard Models Pack;
+> For "front" image target, add a Text-TextMeshPro with the title and author, add some 3D models from Low Poly Junkyard Models Pack;
 
-## For "back" image target, add two 3D Text (because Text-TextMeshPro has limitaion on showing lots of text on a book cover at given size), one shows the relevant information about the book, the other shows a short review of the book;
+> For "back" image target, add two 3D Text (because Text-TextMeshPro has limitaion on showing lots of text on a book cover at given size), one shows the relevant information about the book, the other shows a short review of the book;
 
-## Add a VirtualButton on "back" image target, create a C# Mono Script about it;
+> Add a VirtualButton on "back" image target, create a C# Mono Script about it;
 
-## In the script, define two public GameObjects and a public VirtualButtonBehaviour, in start(), give two functions OnButtonPressed and OnButtonReleased, set the active of one text as true and the other as false, in OnButtonPressed function, change the status between the two texts, and in OnButtonReleased, change it back to the initial;
+> In the script, define two public GameObjects and a public VirtualButtonBehaviour, in start(), give two functions OnButtonPressed and OnButtonReleased, set the active of one text as true and the other as false, in OnButtonPressed function, change the status between the two texts, and in OnButtonReleased, change it back to the initial;
 
-## Bind the texts and VirtualButton in the scene with what we defined in the script, then build and run;
+> Bind the texts and VirtualButton in the scene with what we defined in the script, then build and run;
 
-## Interact it using the book or given pictures of the front and back cover, the output is successful as expected.
+> Interact it using the book or given pictures of the front and back cover, the output is successful as expected.
 
 # Limitation
 
