@@ -35,3 +35,7 @@ Due to the natural design of the book, its back cover is poor in detail and does
 # Download and Running
 
 Download the whole project, open it in Unity Hub with the correct Unity3D edition (2020.3.29f1), then build and run it using any wanted platform (suggest using PC, Mac & Linux Standalone or Android), finally using the physical book (if have) or given pictures of the front and back cover to interact with it. 
+
+# Video and Full Project
+
+https://vanderbilt.app.box.com/folder/156937165731?utm_campaign=collab%20auto%20accept%20user&utm_medium=email&utm_source=trans
